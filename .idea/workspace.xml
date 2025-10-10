@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0b33cab-0891-43d5-a011-0eb86b3e9443" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/fonts/Modern Negra Demo.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/abt1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/abt2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/abt3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/abt4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/abt5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/cocktail-left-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/cocktail-right-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/cup-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/drink1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/drink2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/drink3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/drink4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/fav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/footer-drinks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/footer-left-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/footer-right-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/hero-left-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/hero-right-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/insta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/left-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/mask-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/noise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/profile1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/profile2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/profile3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/profile4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/right-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/slider-left-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/slider-right-leaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/under-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/images/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/readme/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/readme/jsmpro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/readme/thumbnail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/readme/videokit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/videos/input.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/videos/output.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "author": "GalinaBaleva"
+    }
+  ],
+  "lastFilter": {
+    "author": "GalinaBaleva"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GalinaBaleva/mojito-gsap.git&quot;,
+    &quot;accountId&quot;: &quot;d9fcd8fa-4284-4d75-9f6d-2fe2618fd225&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/client/src/App.jsx" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="33rpFO42olKh9g69ZHcZg7OuGLo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.App.jsx.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/balev/OneDrive/Desktop/GitHub/mojito-gsap",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="QodanaHighlightedReportService">
+    <option name="localRunNotPublishedPersistedInfo">
+      <LocalReportPersistedInfo>
+        <option name="path" value="C:\Users\balev\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
+        <option name="reportGuid" value="b52c0eee-2291-4def-ac40-59a0559403b2" />
+        <option name="reportName" value="mojito-gsap/qodana/2025-10-10" />
+      </LocalReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\balev\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="b52c0eee-2291-4def-ac40-59a0559403b2" reportId="mojito-gsap/qodana/2025-10-10" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\balev\OneDrive\Desktop\GitHub\mojito-gsap\client\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/client/src/App.jsx" working-dir="$PROJECT_DIR$/client/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.App.jsx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0b33cab-0891-43d5-a011-0eb86b3e9443" name="Changes" comment="" />
+      <created>1760084941532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760084941532</updated>
+      <workItem from="1760084943150" duration="1960000" />
+      <workItem from="1760086967962" duration="365000" />
+      <workItem from="1760087351467" duration="4235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
