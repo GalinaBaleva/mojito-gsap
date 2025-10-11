@@ -5,60 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0b33cab-0891-43d5-a011-0eb86b3e9443" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/eslint.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/fonts/Modern Negra Demo.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/abt1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/abt2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/abt3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/abt4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/abt5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/cocktail-left-leaf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/cocktail-right-leaf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/cup-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/drink1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/drink2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/drink3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/drink4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/fav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/fb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/footer-drinks.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/footer-left-leaf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/footer-right-leaf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/hero-left-leaf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/hero-right-leaf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/insta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/left-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/mask-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/noise.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/profile1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/profile2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/profile3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/profile4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/right-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/slider-left-leaf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/slider-right-leaf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/under-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/images/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/readme/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/readme/jsmpro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/readme/thumbnail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/readme/videokit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/videos/input.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/videos/output.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/vite.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +90,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\balev\OneDrive\Desktop\GitHub\mojito-gsap" />
       <recent name="C:\Users\balev\OneDrive\Desktop\GitHub\mojito-gsap\client\public" />
     </key>
   </component>
@@ -167,7 +120,7 @@
       <updated>1760084941532</updated>
       <workItem from="1760084943150" duration="1960000" />
       <workItem from="1760086967962" duration="365000" />
-      <workItem from="1760087351467" duration="4235000" />
+      <workItem from="1760087351467" duration="7236000" />
     </task>
     <servers />
   </component>
