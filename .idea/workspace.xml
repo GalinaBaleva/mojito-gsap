@@ -110,7 +110,11 @@
       <workItem from="1760084943150" duration="1960000" />
       <workItem from="1760086967962" duration="365000" />
       <workItem from="1760087351467" duration="20304000" />
+<<<<<<< HEAD
       <workItem from="1760356870056" duration="6735000" />
+=======
+      <workItem from="1760356870056" duration="1502000" />
+>>>>>>> e11413a572daeaa49d92006118523dd9e156a697
     </task>
     <task id="LOCAL-00001" summary="Animate Navbar.">
       <option name="closed" value="true" />
