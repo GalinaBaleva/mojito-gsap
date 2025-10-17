@@ -43,7 +43,7 @@ function About() {
                             turns a simple drink into something truly memorable.
                         </p>
                         <div>
-                            <p className="md:text-3xl text-xl font-bold"><span>4.5</span>5</p>
+                            <p className="md:text-3xl text-xl font-bold"><span>4.5</span> / 5</p>
                             <p className="text-sm text-white-100">More than +12000 customers</p>
                         </div>
                     </div>
@@ -63,7 +63,7 @@ function About() {
                     </div>
                     <div className="md:col-span-3">
                         <div className="relative">
-                            <img src="/images/abt3.png" alt="grid-img-5"/>
+                            <img src="/images/abt5.png" alt="grid-img-5"/>
                             <div className="noisy"></div>
                         </div>
                     </div>
