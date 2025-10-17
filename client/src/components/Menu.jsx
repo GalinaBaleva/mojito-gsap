@@ -1,9 +1,18 @@
+import gsap from "gsap";
 import {useRef, useState} from "react";
 import {allCocktails} from "../../constants/index.js";
+import {useGSAP} from "@gsap/react";
 
 function Menu() {
     const [currentIndex, setCurrentIndex] = useState(0);
     const contentRef = useRef();
+
+    useGSAP(() => {
+        gsap.fromTo('#title', {opacity: 0}, {opacity: 1, duration: 1});
+        gsap.fromTo('.cocktail img', {opacity: 0, xPercent: -100}, {opacity: 1, xPercent: 0, duration: 1, ease: 'power1.inOut'});
+        gsap.fromTo('.details h2', {opacity: 0, yPercent: 100}, {opacity: 100, duration: 1, ease: 'power1.inOut'});
+        gsap.fromTo('.details p', {opacity: 0, yPercent: 100}, {opacity: 100, duration: 1, ease: 'power1.inOut'});
+    }, [currentIndex]);
     const totalCocktails = allCocktails.length;
 
     const goToSlide = (index) => {
@@ -66,7 +75,7 @@ function Menu() {
                 <div className="recipe">
                     <div ref={contentRef} className="info">
                         <p>Recipe for:</p>
-                        <p id="title">{currentCocktail.title}</p>
+                        <p id="title">{currentCocktail.name}</p>
                     </div>
 
                     <div className="details">
